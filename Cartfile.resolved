@@ -1,0 +1,8 @@
+github "3lvis/Networking" "4.4.0"
+github "ReactiveX/RxSwift" "4.4.1"
+github "SnapKit/SnapKit" "4.2.0"
+github "alibaba/HandyJSON" "4.2.1"
+github "devxoul/Then" "2.4.0"
+github "onevcat/Kingfisher" "5.1.1"
+github "zevwings/ZVActivityIndicatorView" "0.1.3"
+github "zevwings/ZVRefreshing" "2.1.0"
